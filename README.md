@@ -1,10 +1,12 @@
 ### 👋
 Hi, I'm Manu, I am a curious developer having fun with code
-- Tech
+- Lang / Framework
     - Java/Spring/Springboot
     - Python/Numpy/Pandas/Matplot/Scikit
     - NodeJS/ExpressJS
     - C
+- Tech
+    - Mysql, Mongodb, Kafka, Elasticsearch, redis
 - 🌱 I’m currently learning Go, Rust
 - 📫 How to reach me:  
     - mail: manu156r@gmail.com
