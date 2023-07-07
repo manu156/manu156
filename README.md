@@ -1,9 +1,14 @@
 ### 👋
 Hi, I'm Manu, I am a curious developer having fun with code
+- Tech
+    - Java/Spring/Springboot
+    - Python/Numpy/Pandas/Matplot/Scikit
+    - NodeJS/ExpressJS
+    - C
 - 🌱 I’m currently learning Go, Rust
 - 📫 How to reach me:  
-  mail: manu156r@gmail.com  
-  linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)  
+    - mail: manu156r@gmail.com
+    - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)  
 - ⚡ Hobbies:
   Anime Lover. Sports: badminton, cricket, volleyball 
 <!--
