@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### 👋
+Hi, I'm Manu, I am a curious developer having fun with code
+- 🌱 I’m currently learning Go, Rust
+- 📫 How to reach me:  
+  mail: manu156r@gmail.com  
+  linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)  
+- ⚡ Hobbies:
+  Anime Lover. Sports: badminton, cricket, volleyball 
 <!--
 **manu156/manu156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
