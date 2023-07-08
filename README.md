@@ -4,10 +4,11 @@ Hi, I'm Manu, I am a curious developer having fun with code
     - Java/Spring/Springboot
     - Python/Numpy/Pandas/Matplot/Scikit
     - NodeJS/ExpressJS
+    - Golang
     - C
 - Tech
     - Mysql, Mongodb, Kafka, Elasticsearch, redis
-- 🌱 I’m currently learning Go, Rust
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me:  
     - mail: manu156r@gmail.com
     - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)  
