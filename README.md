@@ -11,7 +11,8 @@ Hi, I'm Manu, I am a curious developer having fun with code
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me:  
     - mail: manu156r@gmail.com
-    - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)  
+    - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)
+    - [manu156.github.io/](https://manu156.github.io/)
 - ⚡ Hobbies:
   Anime Lover. Sports: badminton, cricket, volleyball 
 <!--
