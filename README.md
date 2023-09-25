@@ -17,7 +17,9 @@ Hi, I'm Manu, I am a curious developer having fun with code
   Anime Lover. Sports: badminton, basketball, volleyball   
 
 ## 
-[![Manu's GitHub stats](https://git-stats-dxtk.vercel.app/api?username=manu156&theme=radical)](https://github.com/manu156/git-stats)
+| [![Manu's GitHub stats](https://git-stats-dxtk.vercel.app/api?username=manu156&theme=radical)](https://github.com/manu156/git-stats)  | ![Top Langs](https://git-stats-dxtk.vercel.app/api/top-langs/?username=manu156&layout=compact&theme=radical) |
+| :----------------: | :------: | 
+
 <!--
 **manu156/manu156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
