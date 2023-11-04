@@ -14,7 +14,7 @@ Hi, I'm Manu, I am a curious developer having fun with code
     - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)
     - [manu156.github.io/](https://manu156.github.io/)
 - ⚡ Hobbies:
-  Anime Lover. Sports: badminton, basketball, volleyball   
+  Anime Lover. Enjoy playing badminton, basketball, volleyball..   
 
 ## 
 | [![Manu's GitHub stats](https://git-stats-dxtk.vercel.app/api?username=manu156&theme=radical)](https://github.com/manu156/git-stats)  | ![Top Langs](https://git-stats-dxtk.vercel.app/api/top-langs/?username=manu156&layout=compact&theme=radical) |
