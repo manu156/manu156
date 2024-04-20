@@ -3,7 +3,7 @@ Hi, I'm Manu, I am a curious developer having fun with code
 - Lang / Framework
     - Java/Spring/Springboot
     - Python/Numpy/Pandas/Matplot/Scikit
-    - NodeJS/ExpressJS
+    - NodeJS/ExpressJS/ReactJS/NextJS
     - Golang
     - C
 - Tech
