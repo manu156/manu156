@@ -2,13 +2,13 @@
 Hi, I'm Manu, I am a curious developer having fun with code
 - Lang / Framework
     - Java/Spring/Springboot
-    - Python/Numpy/Pandas/Matplot/Scikit
-    - NodeJS/ExpressJS/ReactJS/NextJS
-    - Golang
+    - Python/Numpy/Pandas
+    - Go
+    - Javascript/NodeJS/ExpressJS/ReactJS
     - C
 - Tech
     - Mysql, Mongodb, Kafka, Elasticsearch, redis
-- 🌱 I’m currently learning AI 
+- 🌱 I’m currently learning AI/ML 
 - 📫 How to reach me:  
     - mail: manu156r@gmail.com
     - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)
