@@ -10,7 +10,6 @@ Hi, I'm Manu, I am a curious developer having fun with code
     - Mysql, Mongodb, Kafka, Elasticsearch, redis
 - 🌱 I’m currently learning AI/ML 
 - 📫 How to reach me:  
-    - mail: manu156r@gmail.com
     - linkedin: [Linkedin](https://www.linkedin.com/in/manu156/)
     - [manu156.github.io/](https://manu156.github.io/)
 - ⚡ Hobbies:
